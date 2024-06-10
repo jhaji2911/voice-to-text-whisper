@@ -1,12 +1,12 @@
 # ollama-voice-mac
-A completely offline voice assistant using Mistral 7b via Ollama and Whisper speech recognition models. This builds on the [excellent work of maudoin](https://github.com/maudoin/ollama-voice) by adding Mac compatibility with various improvements.
+A completely offline voice assistant using Phi-3 via Ollama and Whisper speech recognition models. This builds on the [excellent work of maudoin](https://github.com/maudoin/ollama-voice) by adding Mac compatibility with various improvements.
 
 https://github.com/apeatling/ollama-voice-mac/assets/1464705/996abeb7-7e99-451b-8d3b-feb3fecbb82e
 
 ## Installing and running
 
 1. Install [Ollama](https://ollama.ai) on your Mac.
-2. Download the Mistral 7b model using the `ollama pull mistral` command.
+2. Download the Phi-3 model using the `ollama pull mistral` command.
 3. Download an [OpenAI Whisper Model](https://github.com/openai/whisper/discussions/63#discussioncomment-3798552) (base.en works fine).
 4. Clone this repo somewhere.
 5. Place the Whisper model in a /whisper directory in the repo root folder.
