@@ -15,6 +15,8 @@ import whisper
 import logging
 import threading
 import queue
+import objc
+
 
 # Configure logging
 logging.basicConfig(level=logging.DEBUG, format='%(asctime)s - %(levelname)s - %(message)s')

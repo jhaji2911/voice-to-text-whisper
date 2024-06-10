@@ -1,6 +1,6 @@
-torch==2.1.2
-torchvision==0.16.2
-torchaudio==2.1.2
+torch==2.3.1
+torchvision==0.18.1
+torchaudio==2.3.1
 pyttsx3==2.90
 blobfile==2.1.1
 openai==1.7.0
